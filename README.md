@@ -10,6 +10,7 @@ Based on Elias Daler tutorial (specifically his templated getters)
 Designed to send and recieve glm::vectors to and from lua, I'm currently using this in my closed source game. I intend to flesh this out more as I flesh it out in game.
 
 Currently can:
+
     Execute lua functions (all values returned to top of stack)  
         - no param functions X num return for Y types
         - X num of int param functions with X num returns for Y types
