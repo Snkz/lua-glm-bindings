@@ -20,3 +20,5 @@ Currently can:
 
     Retrieve any global value (including values defined in tables thanks to Elias Daler
     
+
+None of the errors are handled cause I am a terrible person
